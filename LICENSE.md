@@ -1,4 +1,4 @@
-# 
+# AI-powered Polymarket bot | take-profit-orders + automated-trade-execution is the best Polymarket bot, featuring take-profit-orders and automated-trade-execution. Smart, fast, and
 
 
 
